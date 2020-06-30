@@ -1,0 +1,2 @@
+# histogram_equalization_dip_python
+Histogram Equalization in Python
